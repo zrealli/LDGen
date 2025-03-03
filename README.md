@@ -16,10 +16,10 @@ This repository contains the official implementation of the following paper:
 
 
 
-## :open_book: Coming soon
+## 😉 Coming soon
 LDGen integrates large language models (LLMs) into existing text-to-image models, supporting zero-shot multilingual text-to-image generation.
 
-## 📖 Citation BibTeX
+## :open_book: Citation BibTeX
 Please consider citing our paper if our code is useful:
 ```bib
 @article{li2025ldgen,
